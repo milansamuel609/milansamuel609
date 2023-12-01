@@ -21,3 +21,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milansamuel609&show_icons=true&locale=en" alt="milansamuel609" /></p>
 
+<img src="https://raw.githubusercontent.com/milansamuel609/milansamuel609/output/snake.svg" alt="Snake animation" />
+
+
+
+
+
+
