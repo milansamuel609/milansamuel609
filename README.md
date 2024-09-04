@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Milan P Samuel</h1>
-<h3 align="center">A passionate Frontend developer and A Game developer from India</h3>
+<h3 align="center">A passionate Frontend developer and A Game developer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
