@@ -52,20 +52,20 @@
 
 <h3 align="left">Most Used Languages:</h3>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milansamuel&show_icons=true&locale=en&layout=compact&theme=dark" alt="milansamuel" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milansamuel609&layout=compact&theme=dark&hide_border=true&card_width=400" alt="milansamuel" />
 </p>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <h3 align="left">Streak:</h3>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milansamuel&theme=dark" alt="milansamuel" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milansamuel609&theme=dark" alt="milansamuel" />
 </p>
 
 <h3 align="left">Hacktoberfest 2024 Badges:</h3>
-<div style="display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap;"> <a href = "https://www.holopin.io/@milansamuel609#badges">
     <img src="https://assets.holopin.io/hf2024levels/level1-sloth-terminal-coffee-0-0-0.webp" alt="Hacktoberfest Level 1" width="100" height="100">
     <img src="https://assets.holopin.io/hf2024levels/level2-sloth-terminal-coffee-shirt-0-0.webp" alt="Hacktoberfest Level 2" width="100" height="100" style="margin-left: 20px;">
     <img src="https://assets.holopin.io/hf2024levels/level3-sloth-terminal-coffee-shirt-tail-0.webp" alt="Hacktoberfest Level 3" width="100" height="100" style="margin-left: 20px;">
-    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-terminal-coffee-shirt-tail-eclipse.webp" alt="Hacktoberfest Level 4" width="100" height="100" style="margin-left: 20px;">
+    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-terminal-coffee-shirt-tail-eclipse.webp" alt="Hacktoberfest Level 4" width="100" height="100" style="margin-left: 20px;"> </a>
 </div>
