@@ -62,10 +62,5 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milansamuel609&theme=dark" alt="milansamuel" />
 </p>
 
-<h3 align="left">Hacktoberfest 2024 Badges:</h3>
-<div style="display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap;"> <a href = "https://www.holopin.io/@milansamuel609#badges">
-    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-terminal-coffee-0-0-0.webp" alt="Hacktoberfest Level 1" width="100" height="100">
-    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-terminal-coffee-shirt-0-0.webp" alt="Hacktoberfest Level 2" width="100" height="100" style="margin-left: 20px;">
-    <img src="https://assets.holopin.io/hf2024levels/level3-sloth-terminal-coffee-shirt-tail-0.webp" alt="Hacktoberfest Level 3" width="100" height="100" style="margin-left: 20px;">
-    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-terminal-coffee-shirt-tail-eclipse.webp" alt="Hacktoberfest Level 4" width="100" height="100" style="margin-left: 20px;"> </a>
-</div>
+# Hacktoberfest 2024 Badges:
+[![An image of @milansamuel609's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milansamuel609)](https://holopin.io/@milansamuel609)
