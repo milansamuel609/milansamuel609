@@ -65,4 +65,5 @@
 # Hacktoberfest 2024 Badges:
 [![An image of @milansamuel609's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milansamuel609)](https://holopin.io/@milansamuel609)
 
-## 👋 hello 
+---
+<img src="https://raw.githubusercontent.com/milansamuel609/milansamuel609/output/snake.svg" alt="Snake animation" />
