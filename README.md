@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milan P Samuel</h1>
-<h3 align="center">A Passionate Developer From India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" width="25" height="15"></h3>
+<h1 align="center">A Passionate Developer From India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" width="25" height="15"></h1>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=milansamuel&label=Profile%20views&color=0e75b6&style=flat" alt="milansamuel" /> 
@@ -9,7 +9,9 @@
 
 - 📫 How to reach me: **milansamuel609@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+<h1 align="left">Connect with me:</h1>
 <p align="left">
     <a href="https://www.linkedin.com/in/milan-p-samuel-b54290242/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Milan P Samuel" height="30" width="40" />
@@ -22,7 +24,9 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
+
+<h1 align="left">Languages and Tools:</h1>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -50,22 +54,28 @@
     </a> 
 </p>
 
-<h3 align="left">Most Used Languages:</h3>
+<br>
+
+<h1 align="left">Most Used Languages:</h1>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milansamuel609&layout=compact&theme=dark&hide_border=true&card_width=400" alt="milansamuel" />
 </p>
 
 <br><br><br><br><br><br>
 
-<h3 align="left">Streak:</h3>
+<h1 align="left">Streak:</h1>
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milansamuel609&theme=dark" alt="milansamuel" />
 </p>
 
-# Hacktoberfest(24) Badges
+<br>
+
+# Hacktoberfest(24) Badges:
 [![An image of @milansamuel609's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milansamuel609)](https://holopin.io/@milansamuel609)
 
-## GSSOC(24) Badges 🪶
+<br>
+
+# GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
