@@ -62,7 +62,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milansamuel609&theme=dark" alt="milansamuel" />
 </p>
 
-# Hacktoberfest 2024 Badges:
+# Hacktoberfest(24) Badges
 [![An image of @milansamuel609's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milansamuel609)](https://holopin.io/@milansamuel609)
 
 ## GSSOC(24) Badges 🪶
