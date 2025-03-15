@@ -63,11 +63,6 @@
 
 <br><br><br><br><br><br>
 
-<h1 align="left">Streak:</h1>
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milansamuel609&theme=dark" alt="milansamuel" />
-</p>
-
 <br>
 
 # Hacktoberfest(24) Badges:
