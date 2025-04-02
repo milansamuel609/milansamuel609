@@ -5,7 +5,8 @@
     <img src="https://komarev.com/ghpvc/?username=milansamuel&label=Profile%20views&color=0e75b6&style=flat" alt="milansamuel" /> 
 </p>
 
-<img align="right" alt="coding" width="400" src="https://github.com/milansamuel609/milansamuel609/blob/main/octocat-1743615168213.png" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<br><br>
 
 - 📫 How to reach me: **milansamuel609@gmail.com**
 
@@ -24,7 +25,7 @@
     </a>
 </p>
 
-<br><br><br>
+<br>
 
 <h1 align="left">Languages and Tools:</h1>
 
