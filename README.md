@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=milansamuel&label=Profile%20views&color=0e75b6&style=flat" alt="milansamuel" /> 
 </p>
 
-<img align="right" alt="coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<img align="right" alt="coding" width="400" src="https://github.com/milansamuel609/milansamuel609/blob/main/octocat-1743615168213.png" />
 
 - 📫 How to reach me: **milansamuel609@gmail.com**
 
