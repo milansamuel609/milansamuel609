@@ -35,7 +35,7 @@
 
 <h1 align="left">Most Used Languages:</h1>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milansamuel609&layout=compact&theme=dark&hide_border=true&card_width=400" alt="milansamuel" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milansamuel&layout=compact&theme=dark&hide_border=true&card_width=400" alt="milansamuel" />
 </p>
 
 <br><br><br><br><br><br>
