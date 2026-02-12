@@ -11,29 +11,18 @@
     <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 </p>
 
----
-
-<p align="center">
-📫 How to reach me: 
-<a href="mailto:milansamuel609@gmail.com">
-<strong>milansamuel609@gmail.com</strong>
-</a>
-</p>
-
----
+<br>
 
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/milan-p-samuel-b54290242/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
-    </a>
-    <a href="https://leetcode.com/u/milansamuel/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="50" />
-    </a>
-    <a href="https://www.hackerrank.com/profile/milansamuel609" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="45" width="50" />
-    </a>
+  <a href="https://www.linkedin.com/in/milan-p-samuel/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" />
+  </a>
+  <a href="mailto:milansamuel609@gmail.com">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" height="80" />
+  </a>
+
 </p>
 
 ---
