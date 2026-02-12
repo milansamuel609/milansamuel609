@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Milan P Samuel</h1>
-<h3 align="center">
-A Passionate Developer From India 
-<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" width="25" height="15">
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Enthusiast;Java+Developer;Always+Learning+New+Things" />
+</p>
+
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=milansamuel609&label=Profile%20views&color=0e75b6&style=flat" alt="milansamuel609" /> 
+    <img src="https://komarev.com/ghpvc/?username=milansamuel&label=Profile%20views&color=0e75b6&style=flat" alt="milansamuel" /> 
 </p>
 
 <p align="center">
