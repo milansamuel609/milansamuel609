@@ -66,7 +66,7 @@ hobbies:
 <p align="center"><b>DevOps & Cloud</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,jenkins,ansible,kubernetes,terraform,aws,azure,gitlab,fastapi,dynamodb&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,jenkins,aws,gitlab,fastapi&theme=dark" />
   </a>
 </p>
 
