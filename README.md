@@ -23,14 +23,13 @@ located_in: India
 current_role: DevOps Enthusiast & Java Developer
 fields_of_interest:
   - DevOps & Cloud Infrastructure
-  - Backend Development
+  - Java Backend Development
   - CI/CD Pipelines
   - Infrastructure as Code
-  - Game Development
 currently_learning:
-  - Kubernetes & Terraform
-  - AWS & Azure Cloud Services
-  - Docker & Container Orchestration
+  - Terraform
+  - AWS Cloud Services Advance
+  - Java Backend Development Advance
 hobbies:
   - Open Source Contribution
   - Problem Solving
