@@ -1,197 +1,215 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0E7490&height=220&section=header&text=Milan%20P%20Samuel&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Java%20Backend%20%7C%20Cloud%20%26%20DevOps%20%7C%20Open%20Source&descSize=20&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=200&section=header&text=Milan%20P%20Samuel&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Java%20Backend%20%7C%20Cloud%20%26%20DevOps%20%7C%20Open%20Source&descSize=20&descAlignY=75" width="100%" />
 
-<a href="https://github.com/milansamuel609">
-  <img src="https://img.shields.io/badge/GitHub-milansamuel609-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/milan-p-samuel/">
-  <img src="https://img.shields.io/badge/LinkedIn-Milan%20P%20Samuel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:milansamuel609@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=Java+%E2%80%A2+Python+%E2%80%A2+Bash;Spring+Boot+%E2%80%A2+REST+APIs+%E2%80%A2+SQL;Docker+%E2%80%A2+AWS+%E2%80%A2+CI%2FCD;Build+%E2%80%A2+Learn+%E2%80%A2+Contribute" alt="Typing introduction" />
 </a>
 
-<br /><br />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=0E7490&center=true&vCenter=true&width=760&lines=Java+Backend+Development;Spring+Boot+%7C+REST+APIs+%7C+JPA;Docker+%7C+AWS+%7C+CI%2FCD;Open+Source+%7C+Software+Engineering" alt="Typing introduction" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=milansamuel609&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/milansamuel609?label=Followers&style=for-the-badge&color=00F7FF" alt="GitHub followers" />
+</p>
 
 </div>
 
 ---
 
-## About
+<h2 align="center">👋 About Me</h2>
 
-I’m a Computer Science Engineer focused on **Java backend development, cloud infrastructure, and DevOps practices**. I enjoy turning requirements into maintainable software, automating repetitive workflows, and learning how systems behave beyond the code itself.
-
-Currently, I’m a **Google Summer of Code 2026 contributor with the JBoss Community**, working on **jws-diag**, a diagnostic tool for validating JBoss Web Server (Tomcat) configurations. My work involves configuration parsing, validation rules, support-bundle generation, and automated testing in an open-source engineering environment.
-
-### What I work with
-
-- **Backend:** Java, Spring Boot, Spring Data JPA, REST APIs
-- **Cloud & DevOps:** Linux, Docker, AWS, GitHub Actions, Jenkins
-- **Data:** MySQL, PostgreSQL
-- **Engineering:** Git, Maven, JUnit 5, Postman, DBeaver
-- **Languages & scripting:** Java, Python, Bash
-
-### Current focus
-
-- Building stronger Java backend and Spring Boot fundamentals
-- Deepening practical AWS and cloud infrastructure knowledge
-- Improving infrastructure automation and CI/CD skills
-- Contributing to production-oriented open-source software
-
----
-
-## Open Source & Technical Experience
-
-### Google Summer of Code 2026 — JBoss Community
-**Open Source Developer · May 2026 – Present**
-
-Working on **jws-diag**, an automated diagnostic tool for JBoss Web Server (Tomcat).
-
-- Building configuration validation for files such as `server.xml` and `tomcat-users.xml` using the Java DOM API.
-- Implementing a custom validation-rule engine and support-bundle archive generation.
-- Writing JUnit 5 unit and integration tests to improve confidence in diagnostic behavior.
-- Collaborating with an open-source engineering team through architectural discussions and peer code reviews.
-
-### Unicode Organization — Inflection
-**Project Contributor · 2025**
-
-- Fixed a CMake build failure affecting cross-platform compilation on Linux and Windows targets.
-
-### GirlScript Summer of Code Extended 2024
-
-- Ranked **76th among 40,000+ participants worldwide**.
-- Made **50+ contributions** across multiple repositories, including technical documentation and a merged HTML frontend fix.
-
----
-
-## Selected Projects
-
-### Weather Web Application — Cloud Deployment
-**January 2026**
-
-A containerized weather application deployed on AWS EC2.
-
-- Deployed on **AWS EC2 with Ubuntu**.
-- Served the application through **Nginx inside Docker**.
-- Resolved a Jenkins/application port conflict by reconfiguring ports and rebuilding the Docker image.
-- Configured AWS inbound rules to make the application reachable over HTTP.
-
-**Stack:** `HTML` `CSS` `JavaScript` `Docker` `Nginx` `AWS EC2` `Vercel`
-
-### Milan Bank — ATM System
-**November 2025**
-
-A Spring Boot backend that simulates core ATM operations.
-
-- Implemented deposit, withdrawal, and balance-inquiry operations through REST APIs.
-- Used in-memory state for the banking simulation.
-- Containerized the backend with Docker and deployed it on Render.
-- Resolved cold-start and port-binding issues associated with the deployment environment.
-
-**Stack:** `Java` `Spring Boot` `REST API` `Docker` `Render`
-
----
-
-## Technical Stack
-
-<div align="center">
-
-### Languages & Backend
-
-<img src="https://skillicons.dev/icons?i=java,python,bash,spring,hibernate&perline=5" alt="Java Python Bash Spring Hibernate" />
-
-<br /><br />
-
-### Cloud, DevOps & Tooling
-
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,jenkins,githubactions,git,github,maven,postman&perline=9" alt="Linux Docker AWS Jenkins GitHub Actions Git GitHub Maven Postman" />
-
-<br /><br />
-
-### Databases & Web
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,html,css,js&perline=5" alt="MySQL PostgreSQL HTML CSS JavaScript" />
-
-</div>
-
-> **Note:** The stack above reflects technologies I have worked with or am actively developing skills in; it is intentionally kept narrower than a generic technology list.
-
----
-
-## Engineering Interests
-
-```text
-Backend Engineering     → Java • Spring Boot • REST • JPA
-Cloud & Infrastructure  → AWS • Linux • Docker
-Automation              → CI/CD • GitHub Actions • Jenkins
-Software Quality        → JUnit 5 • Testing • Maintainable Design
-Open Source             → Reviews • Collaboration • Documentation
+```yaml
+name: Milan P Samuel
+location: India
+focus:
+  - Java Backend Development
+  - Cloud & DevOps
+  - Open Source
+currently:
+  - GSoC 2026 @ JBoss Community
+  - Building jws-diag for JBoss Web Server
+  - Learning deeper backend & cloud engineering
+mindset: Build things. Understand how they work. Keep improving.
 ```
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="360" alt="Coding animation" />
+</p>
+
 ---
 
-## GitHub Activity
+<h2 align="center">🚀 What I'm Working On</h2>
 
-<div align="center">
+<p align="center">
+  <b>jws-diag</b> — an open-source diagnostic tool for JBoss Web Server (Tomcat).
+  <br />
+  Working on configuration validation, diagnostic rules, support bundles, and automated testing.
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=milansamuel609&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics" />
-<img src="https://streak-stats.demolab.com/?user=milansamuel609&hide_border=true&theme=transparent" height="165" alt="GitHub contribution streak" />
+<p align="center">
+  <a href="https://www.google-melange.com/gsoc/">
+    <img src="https://img.shields.io/badge/Google%20Summer%20of%20Code-2026-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Summer of Code 2026" />
+  </a>
+  <a href="https://www.jboss.org/">
+    <img src="https://img.shields.io/badge/JBoss%20Community-Open%20Source-CC0000?style=for-the-badge&logo=redhat&logoColor=white" alt="JBoss Community" />
+  </a>
+</p>
 
+---
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<p align="center"><b>Programming & Backend</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,bash,spring,maven,html,css,js&theme=dark&perline=8" alt="Programming and backend technologies" />
+  </a>
+</p>
+
+<p align="center"><b>Cloud, DevOps & Infrastructure</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,aws,jenkins,githubactions,git,github,nginx&theme=dark&perline=8" alt="Cloud and DevOps technologies" />
+  </a>
+</p>
+
+<p align="center"><b>Databases & Engineering Tools</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,postman,vscode&theme=dark&perline=8" alt="Databases and engineering tools" />
+  </a>
+</p>
+
+<details>
+<summary><b>🎮 Game Development & 3D</b></summary>
 <br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milansamuel609&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="150" alt="Top languages" />
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github.com/milansamuel609/milansamuel609/blob/output/github-snake-dark.svg" alt="GitHub contribution snake" />
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender&theme=dark&perline=4" alt="Game development and 3D tools" />
+  </a>
+</p>
+</details>
 
 ---
 
-## Certifications
+<h2 align="center">💻 Things I Like Building</h2>
 
-- IBM DevOps Fundamentals
-- SRE Fundamentals — Google
-- IBM Cloud Computing
-- HackerRank Java Basic
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+
+Containerized applications, Linux environments, AWS deployments, CI/CD workflows, and infrastructure automation.
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ Java Backend
+
+Spring Boot services, REST APIs, database-backed applications, testing, and clean backend architecture.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 Developer Tools
+
+CLI tools, diagnostics, configuration validation, automation, and tools that make debugging easier.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Open Source
+
+Contributing code, fixing bugs, improving documentation, reviewing changes, and learning from real projects.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Education
+<h2 align="center">📦 Featured Projects</h2>
 
-**VIT Bhopal University — B.Tech, Computer Science & Engineering (Gaming Technology)**  
-2022 – 2026 · Bhopal, Madhya Pradesh
+<p align="center">
+  <a href="https://github.com/milansamuel609/sentinel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=milansamuel609&repo=sentinel&theme=algolia&hide_border=true" alt="Sentinel repository" />
+  </a>
+  <a href="https://github.com/milansamuel609">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=milansamuel609&repo=milansamuel609&theme=algolia&hide_border=true" alt="Profile repository" />
+  </a>
+</p>
 
----
-
-## Let’s Connect
-
-<div align="center">
-
-If you’re interested in **Java backend engineering, cloud infrastructure, DevOps, or open source**, feel free to connect.
-
-<br /><br />
-
-<a href="https://www.linkedin.com/in/milan-p-samuel/">LinkedIn</a> ·
-<a href="https://github.com/milansamuel609">GitHub</a> ·
-<a href="mailto:milansamuel609@gmail.com">Email</a>
-
-</div>
+<p align="center">
+  <sub>More projects and experiments are available throughout my repositories.</sub>
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">📊 GitHub Activity</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0E7490&height=120&section=footer" width="100%" />
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=milansamuel609&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true" width="48%" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com/?user=milansamuel609&theme=algolia&hide_border=true" width="48%" alt="GitHub streak" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=milansamuel609&layout=compact&langs_count=8&theme=algolia&hide_border=true" width="40%" alt="Top languages" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/milansamuel609/milansamuel609/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/milansamuel609/milansamuel609/blob/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://github.com/milansamuel609/milansamuel609/blob/output/github-snake.svg" />
+</picture>
+
+---
+
+<h2 align="center">🏆 Open Source Milestones</h2>
+
+<p align="center">
+  <a href="https://holopin.io/@milansamuel609">
+    <img src="https://holopin.me/milansamuel609" alt="Hacktoberfest badges" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="95" alt="GSSoC badge" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="95" alt="Postman badge" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="95" alt="GSSoC badge" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="95" alt="GSSoC badge" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="95" alt="GSSoC badge" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="95" alt="GSSoC badge" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="95" alt="GSSoC badge" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100" alt="GSSoC badge" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="95" alt="Git Explorer badge" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="95" alt="Pull Expert badge" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="100" alt="Code Luminary badge" />
+</p>
+
+---
+
+<h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/milan-p-samuel/">
+    <img src="https://img.shields.io/badge/LinkedIn-Milan%20P%20Samuel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:milansamuel609@gmail.com">
+    <img src="https://img.shields.io/badge/Email-milansamuel609%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/milansamuel609">
+    <img src="https://img.shields.io/badge/GitHub-milansamuel609-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Always learning. Always building. Always contributing.</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=120&section=footer" width="100%" />
