@@ -46,7 +46,7 @@ mindset: Build things. Understand how they work. Keep improving.
 </p>
 
 <p align="center">
-  <a href="https://www.google-melange.com/gsoc/">
+  <a href="https://summerofcode.withgoogle.com/">
     <img src="https://img.shields.io/badge/Google%20Summer%20of%20Code-2026-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Summer of Code 2026" />
   </a>
   <a href="https://www.jboss.org/">
@@ -134,15 +134,12 @@ Contributing code, fixing bugs, improving documentation, reviewing changes, and 
 
 <p align="center">
   <a href="https://github.com/milansamuel609/sentinel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=milansamuel609&repo=sentinel&theme=algolia&hide_border=true" alt="Sentinel repository" />
-  </a>
-  <a href="https://github.com/milansamuel609">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=milansamuel609&repo=milansamuel609&theme=algolia&hide_border=true" alt="Profile repository" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=milansamuel609&repo=sentinel&theme=algolia&hide_border=true" alt="Sentinel repository" />
   </a>
 </p>
 
 <p align="center">
-  <sub>More projects and experiments are available throughout my repositories.</sub>
+  <sub>Explore the repositories on my profile for more projects, experiments, and open-source work.</sub>
 </p>
 
 ---
