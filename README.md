@@ -14,7 +14,7 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=0E7490&center=true&vCenter=true&width=760&lines=Java+Backend+Development;Spring+Boot+%7C+REST+APIs+%7C+JPA;Docker+%7C+AWS+%7C+CI%2FCD;Open+Source+%7C+Production-minded+Engineering" alt="Typing introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=0E7490&center=true&vCenter=true&width=760&lines=Java+Backend+Development;Spring+Boot+%7C+REST+APIs+%7C+JPA;Docker+%7C+AWS+%7C+CI%2FCD;Open+Source+%7C+Software+Engineering" alt="Typing introduction" />
 
 </div>
 
@@ -24,7 +24,7 @@
 
 I’m a Computer Science Engineer focused on **Java backend development, cloud infrastructure, and DevOps practices**. I enjoy turning requirements into maintainable software, automating repetitive workflows, and learning how systems behave beyond the code itself.
 
-Currently, I’m a **Google Summer of Code 2026 contributor with the JBoss Community**, working on **jws-diag**, a diagnostic tool for validating JBoss Web Server (Tomcat) configurations. My work involves configuration parsing, validation rules, support-bundle generation, and automated testing in an open-source engineering environment. fileciteturn1file0L5-L7
+Currently, I’m a **Google Summer of Code 2026 contributor with the JBoss Community**, working on **jws-diag**, a diagnostic tool for validating JBoss Web Server (Tomcat) configurations. My work involves configuration parsing, validation rules, support-bundle generation, and automated testing in an open-source engineering environment.
 
 ### What I work with
 
@@ -63,7 +63,7 @@ Working on **jws-diag**, an automated diagnostic tool for JBoss Web Server (Tomc
 ### GirlScript Summer of Code Extended 2024
 
 - Ranked **76th among 40,000+ participants worldwide**.
-- Made **50+ contributions** across multiple repositories, including technical documentation and a merged HTML frontend fix. fileciteturn1file0L23-L27
+- Made **50+ contributions** across multiple repositories, including technical documentation and a merged HTML frontend fix.
 
 ---
 
@@ -79,7 +79,7 @@ A containerized weather application deployed on AWS EC2.
 - Resolved a Jenkins/application port conflict by reconfiguring ports and rebuilding the Docker image.
 - Configured AWS inbound rules to make the application reachable over HTTP.
 
-**Stack:** `HTML` `CSS` `JavaScript` `Docker` `Nginx` `AWS EC2` `Vercel` fileciteturn1file0L29-L34
+**Stack:** `HTML` `CSS` `JavaScript` `Docker` `Nginx` `AWS EC2` `Vercel`
 
 ### Milan Bank — ATM System
 **November 2025**
@@ -91,7 +91,7 @@ A Spring Boot backend that simulates core ATM operations.
 - Containerized the backend with Docker and deployed it on Render.
 - Resolved cold-start and port-binding issues associated with the deployment environment.
 
-**Stack:** `Java` `Spring Boot` `REST API` `Docker` `Render` fileciteturn1file0L35-L40
+**Stack:** `Java` `Spring Boot` `REST API` `Docker` `Render`
 
 ---
 
@@ -126,9 +126,9 @@ A Spring Boot backend that simulates core ATM operations.
 ```text
 Backend Engineering     → Java • Spring Boot • REST • JPA
 Cloud & Infrastructure  → AWS • Linux • Docker
-Automation               → CI/CD • GitHub Actions • Jenkins
-Software Quality         → JUnit 5 • Testing • Maintainable Design
-Open Source              → Reviews • Collaboration • Documentation
+Automation              → CI/CD • GitHub Actions • Jenkins
+Software Quality        → JUnit 5 • Testing • Maintainable Design
+Open Source             → Reviews • Collaboration • Documentation
 ```
 
 ---
@@ -170,7 +170,7 @@ Open Source              → Reviews • Collaboration • Documentation
 ## Education
 
 **VIT Bhopal University — B.Tech, Computer Science & Engineering (Gaming Technology)**  
-2022 – 2026 · Bhopal, Madhya Pradesh fileciteturn1file0L41-L43
+2022 – 2026 · Bhopal, Madhya Pradesh
 
 ---
 
